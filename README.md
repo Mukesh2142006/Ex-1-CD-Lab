@@ -1,3 +1,4 @@
+# DATE:
 # Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
 # AIM :
 ## To write a C program to implement a symbol table.
